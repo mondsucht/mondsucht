@@ -1,4 +1,13 @@
-## Hi there 👋
+- Hey, Moin! 👋
+- I'm Mondsucht
+- Pronouns: they/them
+- What I'm working with:
+
+
+[![](https://skillicons.dev/icons?i=html,css,latex,svg,git,vim,arch)](https://skillicons.dev)
+
+- Working on right now:
+  - config files for hyprland and awesomewm
 
 <!--
 **mondsucht/mondsucht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
